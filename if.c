@@ -3,8 +3,8 @@
 
 int main(){
 
-    int x = get_int("x: \n");
-    int y = get_int("y: \n");
+    int x = get_int("x number: \n");
+    int y = get_int("y number: \n");
 
     if (x < y )
     {

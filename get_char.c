@@ -12,7 +12,7 @@ char c = get_char("Do You Agree! \n");
     }
     else if (c == 'n' || c == 'N' )
     {
-        printf("Not Agree \n");
+        printf("Not Agree! \n");
     }
 
    return(0);
